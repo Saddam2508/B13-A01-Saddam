@@ -128,3 +128,94 @@ nav {
   align-items: center;
   gap: 12px;
 }
+/* Notes Section */
+#note {
+  padding-top: 80px;
+  margin-bottom: 120px;
+}
+.note-content {
+  text-align: center;
+}
+.note-content h2 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #001931;
+}
+.note-content p {
+  font-size: 16px;
+  color: #627382;
+  margin-top: 15px;
+}
+
+.note-card-box {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 44px;
+  gap: 24px;
+}
+.note-card-box .note-card {
+  text-align: center;
+  padding: 69px 24px;
+  background-color: #ffffff;
+  box-shadow: 0 0 8px 0 #00000023;
+  max-width: 300px;
+  max-height: 322px;
+}
+.note-card-box .note-card img {
+  background-color: #f95555;
+  padding: 10px;
+  border-radius: 50px;
+  margin-bottom: 16px;
+}
+.note-card-box .note-card h2 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #001931;
+  margin-bottom: 16px;
+}
+.note-card-box .note-card p {
+  font-size: 16px;
+  color: #627382;
+  margin-bottom: 16px;
+}
+
+/* Brain Section */
+#brain {
+  margin-bottom: 120px;
+}
+
+.brain-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brain-content {
+  padding: 60px;
+}
+.brain-content .solution {
+  font-size: 16px;
+  font-weight: 600;
+  color: #469165;
+}
+.brain-content h2 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #001931;
+  margin-bottom: 16px;
+}
+.brain-content .brain-pra {
+  font-size: 16px;
+  color: #627382;
+  margin-bottom: 40px;
+}
+.brain-content ul li {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.brain-content ul li p {
+  font-size: 16px;
+  font-weight: 600;
+  color: #001931;
+}
