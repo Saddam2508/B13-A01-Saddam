@@ -78,6 +78,11 @@ nav {
   color: #000000;
   font-weight: 600;
 }
+.menu li a:hover {
+  background-color: #0000002b;
+  padding: 10px;
+  border-radius: 5px;
+}
 
 /* banner section */
 
