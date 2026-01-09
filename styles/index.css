@@ -104,8 +104,8 @@ nav {
 }
 
 .early-access .dot {
-  width: 16px;
-  height: 16px;
+  width: 5px;
+  height: 5px;
   border-radius: 50%;
   background: #469165;
   box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.121);
