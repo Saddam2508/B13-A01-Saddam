@@ -171,6 +171,9 @@ nav {
   max-width: 300px;
   max-height: 322px;
 }
+.note-card:hover {
+  background-color: #f7f9fb;
+}
 .note-card-box .note-card img {
   background-color: #f95555;
   padding: 10px;
@@ -231,6 +234,10 @@ nav {
 }
 
 /* early-access section*/
+
+#early-access {
+  margin-bottom: 120px;
+}
 
 .early-access-container {
   background-color: #f7f6f2;
